@@ -37,7 +37,7 @@ Antes de iniciar, você precisará ter instalado:
 
 Aqui está uma prévia da interface inicial:
 
-<img src="tela.gif" alt="Exemplo gif" width="20%"> 
+<img src="tela.gif" alt="Exemplo gif" width="80%"> 
 
 ## 🚀 Como Usar  
 
