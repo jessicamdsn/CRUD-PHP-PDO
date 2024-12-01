@@ -1,0 +1,108 @@
+body{
+  background-color: #0e0d21;
+  width: 100%;
+  color: #fff;
+  
+}
+.container {
+  display: flex;
+  align-items: center;
+  background-color: #1b193d;
+  border-radius: 10px;
+  
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.banner{
+  width: 50%;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.form-signin {
+  color: #42c066;
+  background-color: #211e47;
+  width: 50%;
+  padding: 30px;
+  margin: 20px 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+  box-shadow: 0 0 5px #3ba158;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+.form-atualiza{
+  color: aliceblue;
+  width: 330px;
+  margin: 0 auto;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.conteudo{
+  margin-top: 80px;
+  h1{
+    font-weight: 600;
+  }
+}
+h1{
+  font-weight: 600;
+}
+
+
+
+.alert {
+  margin-top: 10px; /* Ajusta a distância entre a mensagem e o campo */
+  margin-bottom: 15px;
+  text-align: center; /* Alinha o texto ao centro */
+}
+
+
+.tamanho{
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+
+.btn-savage{
+	background: #3ba158;
+	color: #fff;
+}
+
+.btn-savage:hover {
+	background: #2e9b4c;
+	color: #fff;
+}
+
+.bg-savage{
+	background: #3ba158
+}
+.c-savage{
+  color: #3ba158
+}
