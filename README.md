@@ -1,6 +1,6 @@
 # 🌟 Plataforma de Gestão de Usuários  
 
-Bem-vindo à **Plataforma de Gestão de Usuários**, um sistema simples e eficiente para cadastro, visualização e gerenciamento de usuários. Este projeto foi desenvolvido em PHP com integração ao MySQL e estilizado utilizando Bootstrap.
+Bem-vindo à **Plataforma de Gestão de Usuários**, um sistema simples e eficiente para cadastro, visualização e gerenciamento de usuários. Este projeto foi desenvolvido em PHP, PDO e estilizado utilizando Bootstrap.
 
 ---
 
@@ -18,7 +18,7 @@ Bem-vindo à **Plataforma de Gestão de Usuários**, um sistema simples e eficie
 
 - **Frontend**: HTML5, CSS3, Bootstrap  
 - **Backend**: PHP  
-- **Banco de Dados**: MySQL  
+- **Abstração de Banco de Dados**: PDO (PHP Data Objects)  
 - **Outras Ferramentas**: JavaScript (para interações dinâmicas e popups)  
 
 ---
